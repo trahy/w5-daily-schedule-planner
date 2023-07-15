@@ -1,1 +1,1 @@
-# w5-daily-schedule-planner
+# w5-work-day-scheduler
